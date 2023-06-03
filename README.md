@@ -19,7 +19,8 @@
 
 <br />
 
-Hi,I'm Dipjoy Basak🙌, a Software Engineer, with deep interests in Competitive Programming, MERN Stack Development and Core Computer Science.❤✌
+Hi,I'm Dipjoy Basak🙌, a Software Engineer, with deep interests in Competitive Programming and Core Computer Science.❤✌
+I do a bit of MERN Stack Development as well. Feel free to reach out!👨‍💻
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
